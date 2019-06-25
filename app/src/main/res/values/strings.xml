@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenWhyD</string>
+    <string name="title_activity_track_details">TrackDetailsActivity</string>
+</resources>
